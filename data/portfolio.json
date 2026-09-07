@@ -1,0 +1,148 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-09-07",
+  "portfolio": {
+    "name": "Long-term Portfolio Thesis Tracker",
+    "principle": "Track whether the reason for ownership remains intact; do not let normal price volatility dictate thesis status."
+  },
+  "holdings": [
+    {
+      "ticker": "VWRA",
+      "name": "Vanguard FTSE All-World UCITS ETF",
+      "bucket": "Core / Global",
+      "status": "HOLD",
+      "health": 94,
+      "thesis": "Global equity foundation with broad geographic diversification and low-maintenance long-term exposure.",
+      "mustRemainTrue": [
+        "Fund continues to provide broad global diversification.",
+        "Index methodology and fund structure remain appropriate.",
+        "Costs and tracking remain reasonable.",
+        "Long-term equity risk remains acceptable for the investment horizon."
+      ],
+      "sellTriggers": [
+        "Material structural change to the fund/index that no longer fits the strategy.",
+        "Personal financial circumstances or risk tolerance change materially.",
+        "A clearly superior long-term core structure is deliberately adopted."
+      ],
+      "tags": ["Global", "Core", "Diversification"],
+      "signals": ["Core thesis intact", "No thesis-breaking evidence"]
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "bucket": "Core / US",
+      "status": "HOLD",
+      "health": 91,
+      "thesis": "Broad exposure to profitable US large-cap companies and long-term US earnings growth.",
+      "mustRemainTrue": [
+        "US large-cap earnings power remains structurally strong.",
+        "Index remains diversified enough for its role.",
+        "US concentration remains acceptable within the overall portfolio."
+      ],
+      "sellTriggers": [
+        "A deliberate strategic move away from US equities.",
+        "Portfolio concentration becomes inappropriate for the user's risk capacity.",
+        "Fund/index structure materially changes."
+      ],
+      "tags": ["S&P 500", "US", "Core"],
+      "signals": ["Core thesis intact", "US concentration monitored"]
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "bucket": "Growth / Technology",
+      "status": "HOLD",
+      "health": 84,
+      "thesis": "Concentrated exposure to large technology and growth businesses benefiting from digitalisation and AI investment.",
+      "mustRemainTrue": [
+        "Mega-cap technology earnings remain strong.",
+        "AI and technology investment continues translating into business value.",
+        "Valuation and concentration remain tolerable for the satellite allocation."
+      ],
+      "sellTriggers": [
+        "Structural deterioration in mega-cap tech earnings or competitive position.",
+        "Concentration becomes incompatible with the intended risk level.",
+        "Long-term growth thesis materially weakens."
+      ],
+      "tags": ["Growth", "Technology", "AI"],
+      "signals": ["Growth thesis intact", "Valuation/concentration monitored"]
+    },
+    {
+      "ticker": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "bucket": "Satellite / Semiconductors",
+      "status": "MONITOR",
+      "health": 76,
+      "thesis": "Higher-conviction semiconductor exposure capturing AI infrastructure, compute, memory and foundry demand.",
+      "mustRemainTrue": [
+        "AI infrastructure demand remains strong over the long term.",
+        "Semiconductor industry earnings and capex remain healthy.",
+        "The semiconductor cycle does not become dominated by structural overcapacity.",
+        "Concentration and overlap with NVDA/TSM remain acceptable."
+      ],
+      "sellTriggers": [
+        "Multiple independent indicators show a durable collapse in semiconductor demand.",
+        "Structural overcapacity causes sustained margin/return deterioration.",
+        "Portfolio overlap makes the satellite position unnecessarily concentrated."
+      ],
+      "tags": ["Semiconductors", "AI", "Infrastructure", "Cyclical"],
+      "signals": ["AI demand supportive", "Cycle and concentration monitored"]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "bucket": "Satellite / AI Compute",
+      "status": "MONITOR",
+      "health": 82,
+      "thesis": "High-conviction exposure to accelerated computing, AI infrastructure and NVIDIA's hardware/software ecosystem.",
+      "mustRemainTrue": [
+        "AI compute demand remains strong.",
+        "NVIDIA retains meaningful accelerator competitiveness and ecosystem strength.",
+        "Data-center growth remains economically attractive.",
+        "Margins and cash generation remain strong enough to support the valuation.",
+        "Competition and custom accelerators do not materially erode the moat."
+      ],
+      "sellTriggers": [
+        "Sustained material loss of accelerator share without credible recovery path.",
+        "AI infrastructure spending structurally weakens for an extended period.",
+        "Gross margin/cash economics deteriorate materially and durably.",
+        "CUDA/software ecosystem advantage materially erodes.",
+        "Capital allocation materially undermines the investment thesis."
+      ],
+      "tags": ["AI", "Accelerators", "CUDA", "Data Center"],
+      "signals": ["Fundamentals supportive", "Competition monitored", "Valuation monitored"]
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co.",
+      "bucket": "Satellite / Foundry",
+      "status": "MONITOR",
+      "health": 83,
+      "thesis": "High-conviction exposure to leading-edge semiconductor manufacturing and growing AI/HPC demand.",
+      "mustRemainTrue": [
+        "Leading-edge node demand remains strong.",
+        "TSMC maintains technology and yield leadership.",
+        "AI/HPC demand supports utilisation, margins and returns on capital.",
+        "Customer diversification remains healthy.",
+        "Geopolitical and geographic concentration remains an acceptable risk."
+      ],
+      "sellTriggers": [
+        "Sustained loss of leading-edge technology leadership.",
+        "Durable deterioration in AI/HPC demand or utilisation.",
+        "Material and persistent margin/return deterioration.",
+        "Competitive position versus Samsung/Intel materially improves against TSMC.",
+        "Geopolitical risk changes the risk/reward enough that the position no longer fits."
+      ],
+      "tags": ["Foundry", "AI", "Advanced Nodes", "Taiwan Risk"],
+      "signals": ["AI/HPC demand supportive", "Geopolitical risk monitored"]
+    }
+  ],
+  "overlap": [
+    {"theme":"AI / Compute","assets":["QQQ","SMH","NVDA","TSM"],"level":"HIGH","note":"Multiple holdings benefit from the same AI investment cycle."},
+    {"theme":"US Mega-cap Tech","assets":["VOO","QQQ","SMH","NVDA"],"level":"HIGH","note":"US technology exposure is larger than ticker count alone suggests."},
+    {"theme":"Semiconductors","assets":["SMH","NVDA","TSM"],"level":"HIGH","note":"Direct and indirect semiconductor exposure is concentrated here."},
+    {"theme":"Global Equities","assets":["VWRA","VOO","QQQ","SMH","NVDA","TSM"],"level":"MEDIUM","note":"VWRA diversifies the portfolio but still contains many large US companies."},
+    {"theme":"Taiwan / Geopolitics","assets":["TSM","SMH","VWRA"],"level":"MEDIUM","note":"TSMC-specific exposure also appears indirectly in diversified funds."},
+    {"theme":"Growth / Valuation","assets":["QQQ","SMH","NVDA","TSM"],"level":"HIGH","note":"Satellite positions lean toward higher-growth expectations."}
+  ]
+}

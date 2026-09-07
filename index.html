@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Personal portfolio thesis tracker">
+  <title>Portfolio Thesis Tracker</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="eyebrow">PORTFOLIO MONITOR</div>
+      <h1>Thesis Tracker</h1>
+    </div>
+    <div class="topbar-actions">
+      <span id="lastUpdated" class="muted">Loading…</span>
+      <button id="refreshBtn" class="button secondary">Refresh</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero card">
+      <div>
+        <div class="eyebrow">SYSTEM STATUS</div>
+        <h2 id="systemHeadline">Loading portfolio status…</h2>
+        <p id="systemSummary" class="muted"></p>
+      </div>
+      <div class="hero-score">
+        <div id="portfolioScore" class="score">—</div>
+        <div class="muted">Thesis health</div>
+      </div>
+    </section>
+
+    <section class="stats-grid" id="statsGrid"></section>
+
+    <section class="section-header">
+      <div>
+        <div class="eyebrow">HOLDINGS</div>
+        <h2>Portfolio thesis</h2>
+      </div>
+      <select id="statusFilter" class="select">
+        <option value="ALL">All statuses</option>
+        <option value="HOLD">HOLD</option>
+        <option value="MONITOR">MONITOR</option>
+        <option value="REVIEW">REVIEW</option>
+        <option value="THESIS_AT_RISK">THESIS AT RISK</option>
+      </select>
+    </section>
+
+    <section id="holdingsGrid" class="holdings-grid"></section>
+
+    <section class="two-col">
+      <div class="card">
+        <div class="section-title-row"><h2>Recent signals</h2><span class="pill neutral">V1 · manual</span></div>
+        <div id="signalsList" class="signal-list"></div>
+      </div>
+      <div class="card">
+        <div class="section-title-row"><h2>Decision rule</h2></div>
+        <div class="rule-callout">
+          <strong>Price alone does not break a thesis.</strong>
+          <p>Normal volatility is expected. A status should worsen only when fundamental evidence, competitive position, or the underlying reason for owning an asset materially deteriorates.</p>
+        </div>
+        <ul class="clean-list">
+          <li>🟢 <strong>HOLD</strong> — thesis intact.</li>
+          <li>🟡 <strong>MONITOR</strong> — meaningful warning, not a sell signal.</li>
+          <li>🟠 <strong>REVIEW</strong> — multiple independent warning signals.</li>
+          <li>🔴 <strong>THESIS AT RISK</strong> — core ownership reason materially broken.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="card overlap-card">
+      <div class="section-title-row"><h2>Exposure overlap</h2><span class="muted">Conceptual, not live-weighted</span></div>
+      <p class="muted">Several holdings can own the same economic theme. This view highlights overlap so concentration does not hide behind multiple tickers.</p>
+      <div id="overlapGrid" class="overlap-grid"></div>
+    </section>
+
+    <section class="card methodology">
+      <div class="section-title-row"><h2>How V1 works</h2></div>
+      <div class="method-grid">
+        <div><span>01</span><h3>Thesis</h3><p>Each holding has a written reason for ownership and explicit conditions that would weaken it.</p></div>
+        <div><span>02</span><h3>Signals</h3><p>Evidence is logged separately from the final status. This prevents one headline from dominating the decision.</p></div>
+        <div><span>03</span><h3>Status</h3><p>Status is an interpretation of thesis health, not a prediction of next-day price movement.</p></div>
+        <div><span>04</span><h3>Automation</h3><p>V1 uses static JSON. Later versions can replace these files with daily news, fundamentals and AI analysis.</p></div>
+      </div>
+    </section>
+  </main>
+
+  <div id="modal" class="modal hidden" aria-hidden="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <article class="modal-panel" role="dialog" aria-modal="true">
+      <button class="modal-close" data-close-modal aria-label="Close">×</button>
+      <div id="modalContent"></div>
+    </article>
+  </div>
+
+  <footer class="footer">
+    <span>PortThesisTracker V1</span>
+    <span>Educational tracking tool · not financial advice</span>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
