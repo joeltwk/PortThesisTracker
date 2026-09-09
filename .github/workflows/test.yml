@@ -1,0 +1,29 @@
+name: Validate tracker
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Validate JSON
+        run: |
+          python - <<'PY'
+          import json,glob
+          for p in glob.glob('data/*.json'):
+              with open(p,encoding='utf-8') as f: json.load(f)
+              print('OK',p)
+          PY
+      - name: Validate required files
+        run: |
+          test -f index.html
+          test -f app.js
+          test -f styles.css
+          test -f .github/workflows/deploy.yml
+          test -f .github/workflows/daily-update.yml
