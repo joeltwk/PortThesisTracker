@@ -1,16 +1,7 @@
-# Automation placeholder
+# V1.1 data updater
 
-V1 deliberately keeps data static and transparent. Later versions can add a daily updater here.
+`update_data.py` is designed to run from GitHub Actions. It fetches daily quote snapshots and news headlines, then writes `data/prices.json` and `data/news.json`.
 
-Recommended V2 pipeline:
+The first version intentionally avoids putting API keys in browser JavaScript. If you later add an AI provider, keep its key in GitHub Actions Secrets and call it only from the workflow.
 
-1. Fetch trusted news and market/fundamental data.
-2. Deduplicate articles.
-3. Classify each article by ticker and thesis category.
-4. Extract factual claims and source URLs.
-5. Score evidence strength.
-6. Recalculate thesis status using the rulebook.
-7. Write updated JSON/data to the repository.
-8. Deploy the dashboard automatically.
-
-Important rule: news sentiment alone must never trigger a sell status. Require thesis-relevant fundamental evidence and preferably multiple independent signals.
+For stronger production-grade financial data, replace the Yahoo/Google RSS functions with a licensed market/news API. The dashboard does not treat headline sentiment as a sell signal.

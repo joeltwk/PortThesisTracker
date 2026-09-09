@@ -1,68 +1,30 @@
-# PortThesisTracker V1
+# Port Thesis Tracker V1.1
 
-A lightweight personal portfolio thesis dashboard designed for GitHub Pages.
+A lightweight GitHub Pages dashboard for monitoring long-term investment theses.
 
-## What V1 includes
+## V1.1 additions
+- Fixed refresh with cache-busting and clearer loading/error states.
+- Interactive TradingView chart for the selected holding.
+- Add custom stocks/ETFs from the dashboard; custom holdings persist in browser local storage.
+- Daily GitHub Actions workflow for quote snapshots and news headlines.
+- Manual `workflow_dispatch` so you can force an update from Actions.
+- No private portfolio dollar amounts are stored in the repository.
 
-- Six tracked holdings: VWRA, VOO, QQQ, SMH, NVDA, TSM
-- Thesis health score for each holding
-- HOLD / MONITOR / REVIEW / THESIS AT RISK statuses
-- Written thesis and explicit sell/reduce triggers
-- Recent signal log
-- Conceptual exposure-overlap view
-- Responsive dashboard
-- GitHub Actions validation
-- GitHub Pages deployment workflow
+## Deploy
+1. Upload the contents of this folder to your repository's `main` branch.
+2. GitHub → Settings → Pages → Source: **GitHub Actions**.
+3. The `Deploy Pages` workflow publishes the dashboard.
+4. In Actions, run **Daily market and news update** once manually to test data collection.
+5. The scheduled workflow runs on weekdays. GitHub scheduled workflows use UTC unless a timezone is specified.
 
-V1 intentionally does **not** contain live market prices, automated news ingestion, AI analysis, or private portfolio dollar amounts.
+## Chart
+The selected holding uses TradingView's free Advanced Chart embed. It supports changing symbols and time ranges directly in the chart.
 
-## Deploy to GitHub Pages
+## Data
+The first updater uses Yahoo Finance's chart endpoint for quote snapshots and Google News RSS for headlines. These are convenience feeds. For production use, replace them with a licensed market/news provider if you need stronger reliability, coverage, or terms suitable for your use case.
 
-1. Push this project to the `main` branch of your repository.
-2. In GitHub, open **Settings → Pages**.
-3. Under **Build and deployment → Source**, select **GitHub Actions**.
-4. Push a change or manually run the `Deploy Thesis Tracker to GitHub Pages` workflow.
-5. Open the Pages URL shown by the workflow.
+## AI next step
+V1.1 intentionally does not put an AI API key in browser code. The next stage can add a server-side GitHub Action that classifies news by thesis relevance, source quality, evidence strength, and whether the item changes the thesis. Store any AI key in GitHub Actions Secrets.
 
-GitHub Pages supports custom Actions workflows for deploying static sites.
-
-## Editing the data
-
-Edit:
-
-- `data/portfolio.json` for holdings, thesis statements, statuses and triggers.
-- `data/signals.json` for manually recorded evidence.
-
-Do not put private account numbers, brokerage credentials, or other sensitive financial information into a public repository.
-
-## Roadmap
-
-### V2 — Live market data
-- Prices
-- Performance
-- Market-cap / valuation snapshots where available
-- Portfolio overlap calculations
-
-### V3 — News engine
-- Daily news ingestion
-- Deduplication
-- Source quality ranking
-- Ticker/topic tagging
-
-### V4 — AI thesis analysis
-- Fact extraction
-- Thesis relevance
-- Evidence strength
-- Fundamental-vs-sentiment separation
-- Status recommendations with explanations and source links
-
-### V5 — Alerts and history
-- Status-change history
-- Daily/weekly digest
-- Alert only when meaningful thesis evidence changes
-
-## Design principle
-
-The dashboard is a monitoring system, not a trading signal generator.
-
-A price drop does not automatically break a thesis. The key question is whether the reason for owning the asset has materially deteriorated.
+## Important design rule
+News sentiment and price changes must not directly become HOLD/SELL decisions. Status should change only when the evidence meets the thesis rules.
