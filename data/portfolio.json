@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-07",
+  "lastUpdated": "2026-09-10T05:59:46.000269+00:00",
   "portfolio": {
     "name": "Long-term Portfolio Thesis Tracker",
     "principle": "Track whether the reason for ownership remains intact; do not let normal price volatility dictate thesis status."
@@ -24,8 +24,15 @@
         "Personal financial circumstances or risk tolerance change materially.",
         "A clearly superior long-term core structure is deliberately adopted."
       ],
-      "tags": ["Global", "Core", "Diversification"],
-      "signals": ["Core thesis intact", "No thesis-breaking evidence"]
+      "tags": [
+        "Global",
+        "Core",
+        "Diversification"
+      ],
+      "signals": [
+        "Core thesis intact",
+        "No thesis-breaking evidence"
+      ]
     },
     {
       "ticker": "VOO",
@@ -44,8 +51,15 @@
         "Portfolio concentration becomes inappropriate for the user's risk capacity.",
         "Fund/index structure materially changes."
       ],
-      "tags": ["S&P 500", "US", "Core"],
-      "signals": ["Core thesis intact", "US concentration monitored"]
+      "tags": [
+        "S&P 500",
+        "US",
+        "Core"
+      ],
+      "signals": [
+        "Core thesis intact",
+        "US concentration monitored"
+      ]
     },
     {
       "ticker": "QQQ",
@@ -64,8 +78,15 @@
         "Concentration becomes incompatible with the intended risk level.",
         "Long-term growth thesis materially weakens."
       ],
-      "tags": ["Growth", "Technology", "AI"],
-      "signals": ["Growth thesis intact", "Valuation/concentration monitored"]
+      "tags": [
+        "Growth",
+        "Technology",
+        "AI"
+      ],
+      "signals": [
+        "Growth thesis intact",
+        "Valuation/concentration monitored"
+      ]
     },
     {
       "ticker": "SMH",
@@ -85,8 +106,16 @@
         "Structural overcapacity causes sustained margin/return deterioration.",
         "Portfolio overlap makes the satellite position unnecessarily concentrated."
       ],
-      "tags": ["Semiconductors", "AI", "Infrastructure", "Cyclical"],
-      "signals": ["AI demand supportive", "Cycle and concentration monitored"]
+      "tags": [
+        "Semiconductors",
+        "AI",
+        "Infrastructure",
+        "Cyclical"
+      ],
+      "signals": [
+        "AI demand supportive",
+        "Cycle and concentration monitored"
+      ]
     },
     {
       "ticker": "NVDA",
@@ -109,8 +138,17 @@
         "CUDA/software ecosystem advantage materially erodes.",
         "Capital allocation materially undermines the investment thesis."
       ],
-      "tags": ["AI", "Accelerators", "CUDA", "Data Center"],
-      "signals": ["Fundamentals supportive", "Competition monitored", "Valuation monitored"]
+      "tags": [
+        "AI",
+        "Accelerators",
+        "CUDA",
+        "Data Center"
+      ],
+      "signals": [
+        "Fundamentals supportive",
+        "Competition monitored",
+        "Valuation monitored"
+      ]
     },
     {
       "ticker": "TSM",
@@ -133,16 +171,84 @@
         "Competitive position versus Samsung/Intel materially improves against TSMC.",
         "Geopolitical risk changes the risk/reward enough that the position no longer fits."
       ],
-      "tags": ["Foundry", "AI", "Advanced Nodes", "Taiwan Risk"],
-      "signals": ["AI/HPC demand supportive", "Geopolitical risk monitored"]
+      "tags": [
+        "Foundry",
+        "AI",
+        "Advanced Nodes",
+        "Taiwan Risk"
+      ],
+      "signals": [
+        "AI/HPC demand supportive",
+        "Geopolitical risk monitored"
+      ]
     }
   ],
   "overlap": [
-    {"theme":"AI / Compute","assets":["QQQ","SMH","NVDA","TSM"],"level":"HIGH","note":"Multiple holdings benefit from the same AI investment cycle."},
-    {"theme":"US Mega-cap Tech","assets":["VOO","QQQ","SMH","NVDA"],"level":"HIGH","note":"US technology exposure is larger than ticker count alone suggests."},
-    {"theme":"Semiconductors","assets":["SMH","NVDA","TSM"],"level":"HIGH","note":"Direct and indirect semiconductor exposure is concentrated here."},
-    {"theme":"Global Equities","assets":["VWRA","VOO","QQQ","SMH","NVDA","TSM"],"level":"MEDIUM","note":"VWRA diversifies the portfolio but still contains many large US companies."},
-    {"theme":"Taiwan / Geopolitics","assets":["TSM","SMH","VWRA"],"level":"MEDIUM","note":"TSMC-specific exposure also appears indirectly in diversified funds."},
-    {"theme":"Growth / Valuation","assets":["QQQ","SMH","NVDA","TSM"],"level":"HIGH","note":"Satellite positions lean toward higher-growth expectations."}
+    {
+      "theme": "AI / Compute",
+      "assets": [
+        "QQQ",
+        "SMH",
+        "NVDA",
+        "TSM"
+      ],
+      "level": "HIGH",
+      "note": "Multiple holdings benefit from the same AI investment cycle."
+    },
+    {
+      "theme": "US Mega-cap Tech",
+      "assets": [
+        "VOO",
+        "QQQ",
+        "SMH",
+        "NVDA"
+      ],
+      "level": "HIGH",
+      "note": "US technology exposure is larger than ticker count alone suggests."
+    },
+    {
+      "theme": "Semiconductors",
+      "assets": [
+        "SMH",
+        "NVDA",
+        "TSM"
+      ],
+      "level": "HIGH",
+      "note": "Direct and indirect semiconductor exposure is concentrated here."
+    },
+    {
+      "theme": "Global Equities",
+      "assets": [
+        "VWRA",
+        "VOO",
+        "QQQ",
+        "SMH",
+        "NVDA",
+        "TSM"
+      ],
+      "level": "MEDIUM",
+      "note": "VWRA diversifies the portfolio but still contains many large US companies."
+    },
+    {
+      "theme": "Taiwan / Geopolitics",
+      "assets": [
+        "TSM",
+        "SMH",
+        "VWRA"
+      ],
+      "level": "MEDIUM",
+      "note": "TSMC-specific exposure also appears indirectly in diversified funds."
+    },
+    {
+      "theme": "Growth / Valuation",
+      "assets": [
+        "QQQ",
+        "SMH",
+        "NVDA",
+        "TSM"
+      ],
+      "level": "HIGH",
+      "note": "Satellite positions lean toward higher-growth expectations."
+    }
   ]
 }
