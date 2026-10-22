@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-10-21T06:02:41.469726+00:00",
+  "lastUpdated": "2026-10-22T06:07:55.620345+00:00",
   "quotes": [
     {
       "ticker": "VOO",
-      "price": 706.8,
+      "price": 710.72,
       "currency": "USD",
       "exchange": "PCX",
-      "asOf": "2026-10-20T20:00:00+00:00"
+      "asOf": "2026-10-21T20:00:00+00:00"
     },
     {
       "ticker": "QQQ",
-      "price": 717.63,
+      "price": 725.2,
       "currency": "USD",
       "exchange": "NGM",
-      "asOf": "2026-10-20T20:00:00+00:00"
+      "asOf": "2026-10-21T20:00:00+00:00"
     },
     {
       "ticker": "SMH",
-      "price": 546.36,
+      "price": 556.7,
       "currency": "USD",
       "exchange": "NGM",
-      "asOf": "2026-10-20T20:00:00+00:00"
+      "asOf": "2026-10-21T20:00:00+00:00"
     },
     {
       "ticker": "NVDA",
-      "price": 216.47,
+      "price": 221.97,
       "currency": "USD",
       "exchange": "NMS",
-      "asOf": "2026-10-20T20:00:01+00:00"
+      "asOf": "2026-10-21T20:00:00+00:00"
     },
     {
       "ticker": "TSM",
-      "price": 425.08,
+      "price": 431.89,
       "currency": "USD",
       "exchange": "NYQ",
-      "asOf": "2026-10-20T20:00:03+00:00"
+      "asOf": "2026-10-21T20:00:03+00:00"
     }
   ]
 }
