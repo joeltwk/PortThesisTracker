@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T07:45:21.319678+00:00",
+  "lastUpdated": "2026-11-12T08:21:52.987060+00:00",
   "articles": [
     {
       "ticker": "VWRA",
@@ -45,17 +45,17 @@
     },
     {
       "ticker": "VWRA",
-      "title": "Vanguard FTSE All-World UCITS ETF USD Accumulation (LSE: VWRA) Stock Price, News & Analysis - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUa2RCRGVEOFQ3dFVmMjlvZTZZM1E0QkRZdGVUUVBFTUJtaHRBbjZsbTh0NGh0U2h0cU55SWRWSkw2ajNaYnliazVmN3IyMkpZTWc?oc=5",
-      "published": "Fri, 06 Nov 2026 07:40:17 GMT",
-      "source": "Kalkine"
-    },
-    {
-      "ticker": "VWRA",
       "title": "Vanguard FTSE All-World UCITS ETF USD Accumulation (VWRA.SW) stock price, news, quote and history - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52eFVkdEk4UldNN1lUQUVQZWZTNFd4WDBMM3QzV3Zxc2lzWVF0N1lBMmgzMS1CWUxSUnNXaFFvVm5jU1FvYnRYZ0NGNEx6ZS1TU0xUbnNn?oc=5",
       "published": "Tue, 24 Mar 2026 01:28:16 GMT",
       "source": "Yahoo Finance Singapore"
+    },
+    {
+      "ticker": "VWRA",
+      "title": "Vanguard FTSE All-World UCITS ETF USD Accumulation (LSE: VWRA) Stock Price, News & Analysis - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUa2RCRGVEOFQ3dFVmMjlvZTZZM1E0QkRZdGVUUVBFTUJtaHRBbjZsbTh0NGh0U2h0cU55SWRWSkw2ajNaYnliazVmN3IyMkpZTWc?oc=5",
+      "published": "Fri, 06 Nov 2026 07:40:17 GMT",
+      "source": "Kalkine"
     },
     {
       "ticker": "VOO",
@@ -80,10 +80,24 @@
     },
     {
       "ticker": "VOO",
-      "title": "Vanguard S&P 500 ETF (VOO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Mc05Ua1Zjb0I3UVNoSGlBZUV3TGlOZEZIaXc1Rm5hQ3ZyVDYtYlFDRzhPRWFwSUdEVFVtWW1oNm5jNERoUEljSVJKTEF1RDVG?oc=5",
-      "published": "Tue, 10 Nov 2026 04:22:57 GMT",
-      "source": "Yahoo! Finance Canada"
+      "title": "SPLV Lost $107,460 on $300,000 in the 2020 Crash, More Than VOO’s $102,030 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZllEbmVFZGx0dldhRTF1OGs0UWxwRFVpd2pIQkNmOGRXdHpaNmY2UDM5SzcyS2tjZkFVeUlVUm43UE03c1R1OW9IcFZpdzQ0MmlPRHgyTDM1aHpwSklsdEcxTUFaaWdhbzZzT2RNZUluUjBUMWhjb3NaM2pheW43cktLaV9ZMnowaDBzZXpLOE1nY2VfZDdOMWwwS29kUGpudFJOYmVkbFJKTFBpQlFYYWpPZlM?oc=5",
+      "published": "Thu, 12 Nov 2026 00:03:00 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "ticker": "VOO",
+      "title": "VOO is up 1.1% today, on MRVL stock price movement - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa3NFYTVxOHZ4N1A5MzMxZzNmcGZVRTNNZ1RKRVhZSWdiMG5uSHN5OUtoV0hVbU92bHpSVlRUOEpJY0FUTGVUYnluTDNpYWRhaXRNNnB6VFBuY2FpWTRQelNLZzNZM0tFYzNyU0Zjc3g4TFNmWE1abHExck8wRmNDbWoxdU5xemIwQ1RCWmF2NFg?oc=5",
+      "published": "Wed, 11 Nov 2026 16:15:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "ticker": "VOO",
+      "title": "If You Invest $500 a Month in VOO Starting Today, Here's What History Says You Could Have in 20 Years - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGlibGt0UndWckE2bGZIZVl6UWdKczVCUUo0OFZXTG1vRlFzbHZJMTFEVXZJbGFmTHdDTWFKRm16eDlkUkFTWm1fc0loNTU5eWlYaUo3c3hZUDBkRGpISHppRkVWX3RQZmIzWG1ZdXR5MUpHSjdyT0xRaTRGTVFZQlgtYWlFVnhZZFNCWFdoOFE3WmRBZTdlZlBR?oc=5",
+      "published": "Wed, 11 Nov 2026 11:15:00 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "ticker": "VOO",
@@ -94,24 +108,10 @@
     },
     {
       "ticker": "VOO",
-      "title": "VOO is down 0.8% today, on DELL stock price movement - Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0pDaEtIZTV5VVJoSGtzSEV5dnoxLU1XNm5rZWdJYm1sMXE3REItbERaUWdPckRvUFM1SW1oaTVod0F0S1JXTHNqTkZ2MEFmdnZTOG1LWWpOaGlCQWZRTEMtSEE5UEdONlMtMzN3MnV3cEFjaEFmMGFiWTI4Z1NZUDJOSG1vRU1wZFdTRkdTRkc1eUU?oc=5",
-      "published": "Tue, 10 Nov 2026 16:15:00 GMT",
-      "source": "Quiver Quantitative"
-    },
-    {
-      "ticker": "VOO",
-      "title": "1 Reliable ETF I'm Buying Forever, Even if the Stock Market Crashes - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTk9JSy01ZVQwVVVQZC1LTlBGa1lmMW5JWndmUjFQWkpNLW9pWUI5RkRhZWFpOUVUYk1Edk8wNnBzYVhYTDBhcFZ0d0hmNGR4eGVfVFpFT190VklSTnk2MlpuZ01GSnlhYTZ3UXZOMDhWenVmUElaSTBjWEU0UXIyY1RLdFpCVDZERXFPNUhTVFB0TlZqRHp5dQ?oc=5",
-      "published": "Tue, 10 Nov 2026 17:00:00 GMT",
+      "title": "If You Invest $500 a Month in VOO Starting Today, Here's What History Says You Could Have in 20 Years - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTI4cVcxZ1hmMWFNMjZXb2Q0c1phN2ppdTIyMkJUNUZKLU5uVTMwR3JuS2tYbTlLeTFqdTI3aGFZWUlGYzlUZjNmMTNrcmg4UUpKZllwMExJRHBCcmQ2ZDNOcVdrS01RS1pUUWw2TkE1S0MxSzBPS18wNXpCdzFXYXE3WnpkTWlFYlJuenRrRjh4WlVwekJRcQ?oc=5",
+      "published": "Wed, 11 Nov 2026 10:55:00 GMT",
       "source": "The Motley Fool"
-    },
-    {
-      "ticker": "VOO",
-      "title": "VOO Is Down 6% From Its High. Over the Past Year It's Up 10%. Which Number Should Investors Focus On? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2VZR0xtLU1tY3U5aVU3cTg1QWRRdE9mRElONmlhNUpNZm9EZWU3ZHRTOWd4a2NDYnhWUGV1Q1JmY2JNcEQxYVJMdWQ4RU9KWllTTWdQUi1qMTJ3NFgwMTlGTTR0azk1azFXU1UyeVkyRWNWcGlXWlpma3RoTEZWMFR2LVlsaXBZb2htODh3?oc=5",
-      "published": "Fri, 06 Nov 2026 16:40:00 GMT",
-      "source": "Yahoo Finance"
     },
     {
       "ticker": "QQQ",
@@ -136,23 +136,23 @@
     },
     {
       "ticker": "QQQ",
-      "title": "Day 7 - Riding the post fed tech wave with QQQ - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWcwTEU2cmIwUV94MTFaN3d1LUJ5WWE2ZFRhU1Y1OWdEcTYxd1hJZnVULVNxQ3pnSExLVzJpM0pBcFY1SGItdG92eVhKd2dNc3NtdHRKUjBJMFpsTGF2bDlxbFNTenNrT0c1ak9hMmFFaHFtMTZEVzBHVExkTTZBajNUN09ubWw5d3k1MGNsZU5hWHdoUjVFSTNiY1BUMU0?oc=5",
-      "published": "Sat, 07 Nov 2026 14:07:28 GMT",
-      "source": "Moomoo"
+      "title": "How the QQQ Could Drop More Than 40% From Here, Even If It Hits a New All-Time High First - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0ZYeFdEMEJLNDRVZnlfOExrbzJVeTF6TGttS3prYjdHTDFoblpscXlKaWdfYmNIWjNjT212UG9DRWNqZDJ2QmxfMlFvWERQS0J2Vmtua0NvcXV3TWYxV0owMlVjRjlfT1NFc29PZGRhOTFaMUlmTG1nNHBnUWs1RHpQZG1iOHRCV2VaOFdXeUl6ZlZoU2tEc0tDcWhzWGdFeHlZbjdrZk5jS191UE5HZWVveXNjM1N3YWx3Ym1zVmtLXzNaM3B0SVFndw?oc=5",
+      "published": "Tue, 10 Nov 2026 21:38:22 GMT",
+      "source": "Barchart.com"
     },
     {
       "ticker": "QQQ",
-      "title": "SPY Is Still a Unit Investment Trust. Here’s Why That Quirk Matters (and When It Doesn’t) - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUEszbndhY0U1Qzh0TEpsQWNQZzhTZ2EyY0VEZkZLR24xNjFzSU1zWFlCYktTQVRmZk93UDlLcUF6ejROVWpmcFNDeEtrdzVEX2JFT0Q2TmcwSm1nSlVzNHlwdU1rXzBCcXFZRDNWS0ZpRGJTa3EzaDRnNU9pQjZYM0JOb0djYWZnQTZmbVlMVUJiVXpUWmJFaEFoMGZNbTRaYzU0Z2tGWjdFZkdGNHF6OVRyVHZNWUd6c0UtMktZcnhGZ1dBZ2s3bURyT3Q?oc=5",
-      "published": "Wed, 11 Nov 2026 01:33:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "Here’s How Much You Would Have Made Owning ProShares UltraPro QQQ Stock In The Last 15 Years - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY0Y2cDNCcEtDODctdHozN2R5QUR5UkVBemVtX0dIWUlVVFVnVFEzb056bVZ1NXU3dnJKM1pxWXVkWnBWV0p3bWtUUDBORWQwcUdKcmludUxNQnJUal9aS0w1VHZlTzBUT2NjYkJCdFlYQWJFc2FMU2N3TERwRkl1MnpWcGlXdkRhYTB2MEdyNTBNR0I3c3ExR0ZNdThuLUNGRnc1ZXR0RE5mYm40b2pvdk5pRGxqX2dDLUR5SER2bXluRTRmRjNfX3pB?oc=5",
+      "published": "Wed, 11 Nov 2026 23:17:07 GMT",
+      "source": "Benzinga"
     },
     {
       "ticker": "QQQ",
-      "title": "What INVESCO QQQ Trust (QQQ) Bought: Apple Leads on Nov. 6 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUpQN1FUMFNsQ2wzMWlOWnhoUDA1VkV5N1o2Yk1qT2E3dlJOSWpRemRoNjRhTEpRU3M5WGZSbmNyeW0xZ2FQWEtFQ2Vob3FieEY0Yjg0WWNaR3VQdWZkdkVfT2ZEemlIbGw2bzN1SHVhdDJWQ3BNQ1ZBblhjcjRyME1aQjVWNEFtZC1ORnF2TXB6U09jX3luNQ?oc=5",
-      "published": "Tue, 10 Nov 2026 11:04:24 GMT",
+      "title": "Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM0NSNnNPV2ZhWVEyX1ZpZmxJczBYWktZZlBiaXpBMl9XMEl2RWI3enpUQkdiNE9oSWZraWJCR2xvbEowemZodmZzZzBGejI2SElBa3BRWDJndVdFWXRrZU5aRE0yZFdJclluZmhZaXhJRDByVDZuUE1xVHBqdDJiWDBOLUFTaDVGNmg2V3QxcWxXcmtnTXd2eEZFeld0WDZNckxv?oc=5",
+      "published": "Wed, 11 Nov 2026 23:03:03 GMT",
       "source": "Yahoo Finance"
     },
     {
@@ -164,38 +164,31 @@
     },
     {
       "ticker": "QQQ",
-      "title": "Sell The Bounce, AI Bubble Burst To Resume (NASDAQ:QQQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDRtLWFhZ3BMaXlkYzJzRE1UZjRlWE5HQmhsalJvYmVzcTJmNHl0Y1RfekNKYlhwVDJ6dUs3MUFfbjBiRHNfUWhpUTJZZHBxbjA5Tk0ta19Lb0NzWXlBZFZXcXR3RWJrMWZmTFVSZFZIdWtnRllTLXgxWlVVT1ZWQy1nLVAydFRFZnc?oc=5",
-      "published": "Tue, 10 Nov 2026 11:11:00 GMT",
-      "source": "Seeking Alpha"
+      "title": "What INVESCO QQQ Trust (QQQ) Bought: Apple Leads on Nov. 6 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUpQN1FUMFNsQ2wzMWlOWnhoUDA1VkV5N1o2Yk1qT2E3dlJOSWpRemRoNjRhTEpRU3M5WGZSbmNyeW0xZ2FQWEtFQ2Vob3FieEY0Yjg0WWNaR3VQdWZkdkVfT2ZEemlIbGw2bzN1SHVhdDJWQ3BNQ1ZBblhjcjRyME1aQjVWNEFtZC1ORnF2TXB6U09jX3luNQ?oc=5",
+      "published": "Tue, 10 Nov 2026 11:04:24 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "ticker": "SMH",
       "title": "VanEck Semiconductor ETF (SMH) stock price, news, quote and history - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SeEZVejVfYnVvM0I0NVNCSFpjdmRJYnFWenRIcWt1YmgyV0lBdTd3QU1XU042MWZPcWZPeHZFcUpRQUJNQ0FicnZJVkJYbnNW?oc=5",
-      "published": "Tue, 10 Nov 2026 12:50:00 GMT",
+      "published": "Wed, 11 Nov 2026 12:52:14 GMT",
       "source": "Yahoo Finance Singapore"
     },
     {
       "ticker": "SMH",
       "title": "VanEck Semiconductor ETF (SMH) stock price, news, quote and history - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51Y016RlBMT0c2X1F3NWZHY1I4OUl0eF9zWm9NNXNhQ1VjdGFQY1l4dUlKcmRsSkJ3djJkQzNuRHVYZnhUSW9ITUlXZFFad1dy?oc=5",
-      "published": "Tue, 10 Nov 2026 13:33:01 GMT",
+      "published": "Wed, 11 Nov 2026 12:17:13 GMT",
       "source": "Yahoo Finance UK"
     },
     {
       "ticker": "SMH",
-      "title": "\"A $57 Billion Storm May Hit Semiconductor Stocks This Week\" - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjlkTEx1d1VidzlkT1NYMklpaE56R2tGMm5NMmozcTcwM2dlNWl3V3k0SFlSb3BTRWRaTHNVN1NvdHRzVmhmbENNYmN3SDFYRjRUYXJ1dlNvemE0bDlDcDhrZGMwSDVyTnczdEtEdy0tMlczdjRjWDdSUlZVdFl2SW9CNW5MWlFaQ3NjcGtwd1RlLWlwVEt5SXRYLWE?oc=5",
-      "published": "Sun, 08 Nov 2026 14:55:00 GMT",
+      "title": "3 Stocks I’m Buying As The Huang Scandal Unfolds (NASDAQ:SMH) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRUFBSUhTMmNBNngyc3U4MlBsODRpdXc4Yi0yT1J3SnVPN210Tm9aeXhTSTdtdHYzNVpnM3JwY2hfVllnMnNYcVpVN3lLd2pjSVE4NWpHMlNhMkUzZ1Bsakt2NEgyWEZ1VU9aZk0yZjRMcWFLWmJUSllDdDBqRHU2RmtXTGluMURjaWhEcG51TnJ4Zw?oc=5",
+      "published": "Wed, 11 Nov 2026 14:13:17 GMT",
       "source": "Seeking Alpha"
-    },
-    {
-      "ticker": "SMH",
-      "title": "$100 Invested In VanEck Semiconductor ETF 5 Years Ago Would Be Worth This Much Today - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTDM1RmRDNVhzSGhfU1doZ2FWbmZPNl9GVnVmVWtCdFZEXzhVblVJUjlXQ3ZNQ3E3dlpTN2ptTkVpbzV3NC1hZ3RISWwtWU15bGJNUkNSTEgySWxZNjVOcHRUR2pBS0xxMlRRdXR6Ylk3SVhTUzNFb2cyaGRNb0I1dHhtelgxRjZEb3JFZmhXd0tmZUVUcE5ESmtnLUFhdEJqak9oZWVuTmNZeVNUdGlPeEpaMm1ELU10Q0JlWA?oc=5",
-      "published": "Tue, 10 Nov 2026 22:31:29 GMT",
-      "source": "Benzinga"
     },
     {
       "ticker": "SMH",
@@ -213,108 +206,87 @@
     },
     {
       "ticker": "SMH",
-      "title": "VanEck Semiconductor ETF (SMH) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sdmFESnNQOTlpU1ZjU2ZLUjNFQmlNYTg5cWVRVWVpMWJfTlc3b3BZd3RNRng1eWtYVnV1SC1TbU5TR1ZFNXQ2N3RnQWlNVDNP?oc=5",
-      "published": "Tue, 10 Nov 2026 03:54:37 GMT",
-      "source": "Yahoo! Finance Canada"
-    },
-    {
-      "ticker": "SMH",
       "title": "$57.2 billion Treasury cash drain hits Wall Street this week: Why semiconductor stocks and SMH ETF investo - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDByWF82YWRfcVdOZVhYVmE2MkQza01RNGNmek9LcXJ0ZERUd0gtcEVyRW1hS1FkdWp6QkRhNlhuUDRZcVV2dGFIN2puVDZ0bUVCY2lfaEhCcDlxOXdXTzZOY2NHSW81NVFNQVNqNElBRUZFVDVhcm9NdDVFT2NjUDFzdElIMmtOMlBlOVk3WnN1bDJVVlVZal96ckloTmNReDRGd25ET2RBZnNQakgwQ1NoNEFLYnh1MXV0RHU5V3VnT2VjM1VwMnVQRWFQQk85clJhOElZT202YmlUTVVkYkNJbUF3N2JaRnR1OTJmQlRFRUhBV1dXOW5EdU1aNmZ0ZFRrOE1ZYWkwMnVodVNSLVYyQTFJcUJrWmZoVFNnT196UWhqRGxUMHdrcFNCd0xKUUozSjhnSk95ZDdwWF9Lb0JxT01YYk1VYTB0VnBMWE1PUUVsNjZlQWVVbTlES2llOEJsd2x30gHrAkFVX3lxTE1wUnh6QktHbTBST052Sk5BTGt4MzBNQVNDZlpBWEpOSTFxZFZKenN6cGVRU3hwa2o1RU9WRmJzVEd3d2FVV0lKeV82V0UxRFpPTkNPWmNaalE0NS1IcVEydTYtOVhVa0M2SDhmUFlFaV9BM3l3SERwamY2T1pPbW9yQk14M0JrNWFlMEI3d0dUYTBJYkktMjc4Y3MzVWwzbkJCMlhkNkNxRE9tUmFuekJkLV9tU0xEU0MxN19wdk4tWktEeC1ZbHJaWWwxZExFMFVFSHo2WmpfVGs1YVMxQXFBYVZJTUcwODJRSEJ0a1d1TGNuMDk4VTQta2pnTnpRZFI4cGh1bFlYTE9IY0prVHpYMV9uQUJuQy04dXgyaklSdE01N04zTVdxdXczRXdwci1hY01NMjZBT2VUdTR0R1drM2lpSWVFQ3M1VG5kU3R3SHZqdkpNQ1hkRnBQcWF5WkxEbEdIOWFQUENjbw?oc=5",
       "published": "Mon, 09 Nov 2026 18:24:24 GMT",
       "source": "The Economic Times"
     },
     {
-      "ticker": "NVDA",
-      "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUp3aWtLM3FHZFMycjJkRGVUeXFXWUdPOV9fbEtkVUhwUk5oX2xDVHZ4alZwdl93VnY1UzMwSUN5QjJneHVzdTZHR21JUnkyU2NtZ05LazhQMHoteDNzSVUxQ2lTR0VVSk8yczdTVTd5cXFHNnFUR1hHdVlfc1psbktyRy1OTTQ?oc=5",
-      "published": "Tue, 10 Nov 2026 09:14:29 GMT",
-      "source": "CNBC"
+      "ticker": "SMH",
+      "title": "$100 Invested In VanEck Semiconductor ETF 5 Years Ago Would Be Worth This Much Today - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTDM1RmRDNVhzSGhfU1doZ2FWbmZPNl9GVnVmVWtCdFZEXzhVblVJUjlXQ3ZNQ3E3dlpTN2ptTkVpbzV3NC1hZ3RISWwtWU15bGJNUkNSTEgySWxZNjVOcHRUR2pBS0xxMlRRdXR6Ylk3SVhTUzNFb2cyaGRNb0I1dHhtelgxRjZEb3JFZmhXd0tmZUVUcE5ESmtnLUFhdEJqak9oZWVuTmNZeVNUdGlPeEpaMm1ELU10Q0JlWA?oc=5",
+      "published": "Tue, 10 Nov 2026 22:31:29 GMT",
+      "source": "Benzinga"
     },
     {
-      "ticker": "NVDA",
-      "title": "Michael Burry Sees Nvidia Becoming ‘A Heck Of A Trade’ — Reveals His 2 Biggest Bets And Where He’s Buying More - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGtjRlAyQkNSTWY2SE5uQVh6cUZqQkNHcGl0SEptX1VFUXJtV1FMakhDTWlQbEFFYzZuWkZrRXlkZDVQTEtmbUFad2ZxUlhoUTdNZmo1Ym9vQ3c4Qk5kakpYbVlzTF9UQS0xbTl1Q0xqRDlaNWFnVGdSd0ZLVTdBUlItd3hRVEJWdjkyVVk4b3pPdUNMSmRxSHY3aXBpbUpr?oc=5",
-      "published": "Wed, 11 Nov 2026 02:20:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "ticker": "NVDA",
-      "title": "NVDA is ‘silly cheap,’ now is ‘the opportunity of an absolute lifetime’ – analysts (NVDA:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdU40WER4VW10WUxpSVFndlhqQlhuMHVYUEhrZzRkUm4zRTQzNERtM1RZME1CaXRGR0FLVTFpcW1jQ1ppcFl5VU5aU0FMN1hEcGJ2d1I5M3lTSnBpOVlpU0ozQ2dUZ1Nkb1FuWlBIWi1OcGQtRW9jTnZPeU5UZjh4dnlOb2F4aU9rRktEdUp3Wml2UGxzZ18taGR3N2hTc195WlZHNHpBRnE0YmZGVFRzdWNxQQ?oc=5",
-      "published": "Tue, 10 Nov 2026 20:16:00 GMT",
+      "ticker": "SMH",
+      "title": "CoreWeave's strong results lift chip stocks; Micron leads Quant rankings (SMH:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0Z1ZnJIUGFIMklpbVdQM1UtelR6Z0tJdGFObTZ4amVwd1pCZlZ3Mk1kMG9SSkJYc2pwZi1sNGVqdWZqMUd0T0xwTDlaTUljYTQxUThfY0FJUmhUZG1lc01fM2w0Z2U4M1BvWmZ3Z2dzVnZ0MklaXzhvUFE0U0VxV1phWS1JNTZWQmN5bDhSMi1PNVg4YUJJUXdTR3psbUFNZ1VGNzZOdGZkWVNu?oc=5",
+      "published": "Wed, 11 Nov 2026 16:08:52 GMT",
       "source": "Seeking Alpha"
     },
     {
       "ticker": "NVDA",
-      "title": "Cathie Wood buys $15.3 million of tumbling semiconductor stock - TheStreet",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkJFTXgtalNXQk1lYzhYbEg2bGV2aDdqLVZMUkpxeTlhV1ZPd3djRkQ0TmNjZmZKcTl1YzJZcFNsZXJ5V2RzNWlzUUczTUM5TzROQnFjV09UZ3M4RjVsSnNRb2ZOeDB4MWlQazVzYVJsMS1JZkxGUHpCMncycm5IRzlEbl8xWUN0bXNzR2J2R0lKRU5DenBaTFF5SFNPX2hPMWFNWUZpd0FyVXp3bDBITHpJWjlTb0U?oc=5",
-      "published": "Tue, 10 Nov 2026 23:29:37 GMT",
-      "source": "TheStreet"
+      "title": "Nvidia live updates: Nvidia stock tanks in after-hours after allegations of a second affair surface - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORXJGN3VRS0JCdkxWaTMzYWhuVjh1b2Q4QWtsZDJWSFozTVdONzZJWnVvdGE0NWZJQTFyamExSGlUNXZTUDJ6ZWZ5WlVPa0huVGJPMUZXNUc5bzZyX0F6VjAtQzdmNnZMN3czOF9uWTU1SzZJMnJtdDBRMXZROXdCOVhmQjU4OTd4bEFIbDBDeHRFT0Zoc29kY2Z6Nnhnd0NyanBYcXBuX1VvdDdTT2FZaGdHbmZ2VDZaU18yUEtRZjBJdkxzeXJReFhaeVlPbWE1eFJTRDFUS0hCSjJVM2lQTHczUFRiUHp3VmJB?oc=5",
+      "published": "Wed, 11 Nov 2026 22:24:38 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "ticker": "NVDA",
-      "title": "Nvidia Bloodbath Over by November’s End? Crypto Bettors Weigh NVDA Stock’s Next Move as Jensen Huang Controversy Brews - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOVhQUkpHREpHMkRCTFpGald6Y3ZxYXpmWU5iOUdYNVRYOVZSV1JlLWxJcDF2Tkktd1lkeldLWmNibDNGRmhDLU45eFRnZHQxLVhFTXJmMUdxQzdoekRrbHEtbHMxSTJNS1ktY1BVRHF1bFpaMmd1WjhIVF9RZ1JYTjJ6UEFMdVVRWVJWRHZPempTSmhILVdKSVJxUWVyZUp6bUYtRU14b25sMjM2ZWlFZUJGSXdmRGhFdkhrejUxTzJneTc4RGVXZ0lINHJPQ3BsTkdzSUF2djc3TnpwYU44Y0pYbzJPV0FnY3J2UzdFdTNlUzQ3MGZDNFY0Ry1Rb2xOQnRUZThOOA?oc=5",
-      "published": "Wed, 11 Nov 2026 04:26:00 GMT",
-      "source": "TradingView"
-    },
-    {
-      "ticker": "NVDA",
-      "title": "U.S. Stocks Leap Despite Nvidia Slide - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0N4MG4xaFJUQjN1c2hSV2dIbjI3UlptZ3BDenpiYmFNdVkzOFVlSFcxSGJiSDY1bTBkckZnMldxaTBzaWxqWkRzaGlaTmtzVXI3MkRqM2NHeHhsZHJsVDNSQWdtRTA1cEM1OWNkYnlYeVZGRjBlZldWSklJVVIxN0NFQnhsbFF4dGRocHRSa1BuZXJaMmRLOFpCQ3A0RlY4cC0xbEVYU2gzeW0xTkhoSjRPSEx3cEV0?oc=5",
-      "published": "Mon, 09 Nov 2026 19:29:00 GMT",
-      "source": "WSJ"
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wRWhMQVVPSndyZG1Hb1FDM0M4UEpxREhfZGlYb3BTcWh6UDZXc0tXUTVhU2xzeWR4b2VYT29vTXJGa0RxRzdrOV9KMmUzN1dMb0FtWXJYcUNVdjRJaVlRT0M2NXpnWkVaNWlNR0pUYUxsWURHaDBLTldn?oc=5",
-      "published": "Tue, 10 Nov 2026 23:11:34 GMT",
+      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5",
+      "published": "Wed, 11 Nov 2026 10:03:29 GMT",
       "source": "CNBC"
     },
     {
       "ticker": "NVDA",
-      "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjSEVwTlRmTGhoRFhDaTJwTmZlYWtpek1vQzlrSDBLZ1RteTVDWHF4UEg3TDVKTFZ0RGl3blhtaWVpNWh2YTI2TWJuQVItN0hqYVRVMlN2VzVzRHNwYWQ1V0EtWDVoZEJpSjF3OEFsTFJDN29EdTJNcnJzQlk?oc=5",
-      "published": "Tue, 10 Nov 2026 19:19:28 GMT",
-      "source": "CNBC"
-    },
-    {
-      "ticker": "TSM",
-      "title": "Is Most-Watched Stock Taiwan Semiconductor Manufacturing Company Ltd. (TSM) Worth Betting on Now? - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOamVaUDFiam15N201S2lsRmswQWFCNEl4QjBZRXhEeWNCZFd2c0thOVVoOTcwS1lFOUdGVFpVdXVDb1RkenZ4X3JfM19SSjJ1anVzdC1MMEhsNkVnTmxSN2dCdHppUGNWeXZiaFpoaVNLOXdiV3hvbER5ckljRGhmTzVJa21UUmxsb1lNQ3dBUEJJdw?oc=5",
-      "published": "Tue, 10 Nov 2026 13:00:06 GMT",
+      "title": "Nvidia shares fall on reports board may oust CEO Jensen Huang - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNREx3bWhabnJlZzZMMGVMamR5RjJDRWk4UFBUYXpmc2luRU5VYTlEQjdGOTUtWHhGM2V0UUhfVXRnWlgySnZDVWhYOUtXZGU0anZuTFNCUEYzRGp6SzNnNGFqZjFGRmpIRjludm5YeVlEV2VfZGlENFhRQkxwbmE4aFR6ODBrRHhL?oc=5",
+      "published": "Thu, 12 Nov 2026 07:51:00 GMT",
       "source": "Yahoo Finance Singapore"
     },
     {
-      "ticker": "TSM",
-      "title": "Taiwan Semiconductor Sales Jump 60% In October As AI Boom Continues - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXVPN1FxVkpoWXdpeG9DdDJyNEl5aUlMWF8yZVM2aG1SNkdTbUFMNnQwQWFMMjhkNjJkOVdjb19IQTRtQzJBZ085alZEdjVpLTFMek9haGlValNDZzFTR3lfNnpmc1BPRk44N2RuWHR1dE03SWdTMXhHVGRSQm1ONkJpSkJVZmhvRzdLUEQwdUx4VHUzbnpN?oc=5",
-      "published": "Tue, 10 Nov 2026 21:18:00 GMT",
-      "source": "Investor's Business Daily"
+      "ticker": "NVDA",
+      "title": "Michael Burry Says Nvidia Earnings Will Be 'Great' — So Why Is He Telling NVDA Bulls To 'Get Out'? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlhvNHZTWjA5WjZhT2RzM3ZNRkFwUk9BelVRWHhWRmhVZGxoQTVndmRuUmVwZm5sNkRheWNqdEhsSDNTRVFZWDZqUEcyaEFPM19NenE5TDBFc2h1UzNSa1dHb0UtSHI2bzVubFFPaF9Ia2dIbFNuczlmakFheTEwN3diSUktZVJlLXk2NElka2FGSkJnTG92N2U3ZTBjRW5m?oc=5",
+      "published": "Thu, 12 Nov 2026 07:17:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+      "published": "Wed, 11 Nov 2026 22:34:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Tumbles. Jensen Huang Could Be Out Soon. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmY5c05oNmptS3d1Z1B6aUtOaEkwMGxxbjBkendjRzNqU2lrclhPNlkxWEdlU2c5NnhUVVQ4a09vSVFOX3ZhNnNpUy1VeHo3aFlHdlAzZVdSLXQyWml3VE0xMnNNUnU5T2NCM2pHNjE2end6NjlRNVBYbkxKOGZOSTR3MU1aYk9IaWtMLQ?oc=5",
+      "published": "Thu, 12 Nov 2026 01:06:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia stock falls after investigation into CEO, bucking market rally - CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50WjBIUUkwd0ZNMkFYTzZjQjRnOFZoc2lPTFVORzZtU0ZwOV9SNldqdUxPZ0NsUEFLZ3lDdzh3RV9ZTWZ4ek9KaWR4aENKVEFtdFIybjhqUkxvTHRFYWFocVgta1ZKRWJYYTFIZ1JpaE5uTVBfNzMzb3VkUC1iUQ?oc=5",
+      "published": "Mon, 09 Nov 2026 14:37:49 GMT",
+      "source": "CNN"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia vs. SK Hynix: Which AI Chip Stock Is a Better Buy for 2027? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFQyc0lKamZWa0pNblJGbVJXUTJzNWNhRUNEOWcxa1doMWZWZVpzVXJsa3poM0F1R1BaSjYxeFE1Y0NPenl6NkxuWkN1cVMyOVNZQ09iMWhtdUZFLVpvUTI4Y1pFcGZYQkNaX1gwcjAzTlBoekM5NkFldVhPLWR3S1ZCT242YWtYNTBubDNGZi1VSHVEcmVuRS1uWmZtSzdYUTUwUDVKdGxxaU9jTk1QR0h0c2JMSjA?oc=5",
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "source": "The Motley Fool"
     },
     {
       "ticker": "TSM",
-      "title": "TSMC (TSM) Stock Forecast: June Revenue Up 68%, Q2 Earnings Tomorrow; Is $438 the Next Stop? - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1JnUDhUX2U1ZXlyTk1ZZlJZQUlCanB0VnhQVTE2RktleVdTd2Z5a2JxS25KZGJuYTIzc1duU2lvVkZXMU16WlVSRzB3a2tkQW11czBQUF80VFdJX1pQM2tBelY1akNLaEZlbXF3QVJ5eVNKNGM2TWh1S3ByREV5TDBmUmRTT05kSDNxMXhaZVhDSEhOYXc4WjRJVm9CN0xaLTVQbW1RLWR5WXhzb1RhZ0dFRFdCM3ltVmx3dy1VQ3JqSFlnMjU0ejFGN2V1cWNa?oc=5",
-      "published": "Tue, 10 Nov 2026 00:44:16 GMT",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Opened Up by 3.15% on Nov 11: What Investors Need To Know - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVZZZHRRUTFaSFZZWGJLVi1OaFdDWFN1NFZkazBSTV9ka2NMeDVvb2Z1R28xWnYweFBCWjR3MlVTRjhOdEdaNUZhUWFUcmpyMU5TeUJXX00yV29kOTdXM3JQNGhpc2piM20yc2RjRlZJNVFjQ1Y5UnpGV2RaTVRIVXVqcklDSlktS3c?oc=5",
+      "published": "Wed, 11 Nov 2026 14:47:23 GMT",
       "source": "TradingKey"
-    },
-    {
-      "ticker": "TSM",
-      "title": "TSMC Stock Is Trending After Hours As Chipmaker Plans Up To $1 Billion Bet On Anthropic, OpenAI - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY3dpejRkZEdnOW1fTnVGbGpIUGlvUmFKVmZxN2o1STRMemRhZVc2UlJ2NmZjZzlFRDgyalNJSGViaGVWbUt6THIyMzkzTXYtSHJaaGdRcThtNkstSTZUMVlWSUd3ZFF2aENQRnllXzJxY1JBeGVTR0lWd0VoU0JSdFpCbTBHX2N3RVRyNkltWDJJSUU5TjQwN042dF83V3luczh4LWFBNHhnNHRiNUF2TDd6cm8yRnU5Um1wYUhzZHdVOUJBUjNicTQ5NHlBcHJLbmxiNVJ5MlkwTVB5X3dPSTByRUoyck0?oc=5",
-      "published": "Wed, 11 Nov 2026 04:01:00 GMT",
-      "source": "TradingView"
-    },
-    {
-      "ticker": "TSM",
-      "title": "TSM Stock: October Revenue Up 59.7%, Ahead of Q4 Pace - FinanceFeeds",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcTlXRVNpdDN2X0pyYm5Wa0lZY2R6WXcwZmtJWWIzQjgwSGc3MWFFOHVfaHdsMGlRdU01alluNUpYZWpNVERkcnYyRHlaWG1kVnFnX0ljQzRHRUFVZ05zTnlEc0JEZS1jVGdySWtqc005MUNyRjRybEc3M1BTV2I0RWxQdkRxX21yR292M1NRdG4?oc=5",
-      "published": "Tue, 10 Nov 2026 17:36:38 GMT",
-      "source": "FinanceFeeds"
     },
     {
       "ticker": "TSM",
@@ -325,6 +297,34 @@
     },
     {
       "ticker": "TSM",
+      "title": "Taiwan Semiconductor Sales Jump 60% In October As AI Boom Continues - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXVPN1FxVkpoWXdpeG9DdDJyNEl5aUlMWF8yZVM2aG1SNkdTbUFMNnQwQWFMMjhkNjJkOVdjb19IQTRtQzJBZ085alZEdjVpLTFMek9haGlValNDZzFTR3lfNnpmc1BPRk44N2RuWHR1dE03SWdTMXhHVGRSQm1ONkJpSkJVZmhvRzdLUEQwdUx4VHUzbnpN?oc=5",
+      "published": "Tue, 10 Nov 2026 21:18:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Semiconductor Stock Rallying on $1B Investment Plan - Schaeffer's Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmFaT1daS3pOTlJDNlo2V3JnRW9NVGFGLVcweE9qMU5sX0ltamluT0NLUzY4bTVsNU1UZHJZSVRDcjVOZjctblk5SE5qSTRDdHIteF93cU03d2J5VUd6R2NnQkUtU0FJWEdYRU1ScnJyR3FTRnVwX2JvTWJrZWJVOUpqc0hLQUFtNktnQ0lLNXh0aS0xLWNtcE03WWhIZFBkVF9TTXFCSjluNHV5cWc?oc=5",
+      "published": "Wed, 11 Nov 2026 16:08:52 GMT",
+      "source": "Schaeffer's Investment Research"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSM Stock Jumps Premarket After Board Approves $1B Investment In Anthropic And OpenAI, Dividend Raise - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQekU3N2oxZW5RcFNsQV9HVlJpbGN2X3IyVXp4bnhDazg1cmtIUUItRklGbE5xTXV0cmx5bW53TXA3U2tYS3Jaa1FFSXZVZ1RPWF9DWjQ3LU5rSTFZeklEWDl0ZEh6dU41N2lYYzRYTjNzck9JVjRZX2JJblNXOXVINU5aR3plWlczdFh0azBJREswcDRPb0EzekVGRkRoQkhfOEIwUE5IZkJhUUZzSkh4dVNmTm44VTNVQ1JOa1YyZVR6dmZVOFhJQUZ2UTN0X2Zqb0dlNUEtOUlHTi03ZEdjQ3d6V0MwSTQ5b2VDRVVKeC1Jdw?oc=5",
+      "published": "Wed, 11 Nov 2026 09:06:49 GMT",
+      "source": "TradingView"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC (TSM) Stock Forecast: June Revenue Up 68%, Q2 Earnings Tomorrow; Is $438 the Next Stop? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1JnUDhUX2U1ZXlyTk1ZZlJZQUlCanB0VnhQVTE2RktleVdTd2Z5a2JxS25KZGJuYTIzc1duU2lvVkZXMU16WlVSRzB3a2tkQW11czBQUF80VFdJX1pQM2tBelY1akNLaEZlbXF3QVJ5eVNKNGM2TWh1S3ByREV5TDBmUmRTT05kSDNxMXhaZVhDSEhOYXc4WjRJVm9CN0xaLTVQbW1RLWR5WXhzb1RhZ0dFRFdCM3ltVmx3dy1VQ3JqSFlnMjU0ejFGN2V1cWNa?oc=5",
+      "published": "Tue, 10 Nov 2026 08:17:09 GMT",
+      "source": "TradingKey"
+    },
+    {
+      "ticker": "TSM",
       "title": "Taiwan Semiconductor Manufacturing (TSM) executive Yeap bought 57 shares for $4,019 at $70.50 - Quantisnow",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaG05M2Jtb2JwUjNZRno1YmpfTUVMeW1LcE5TbHhxM0RTVWhLLTN2ekpnbm4xdnU5Q2E2N05lZ0dvQUJjYXhPWEhYb3JJalQweUd1WVJoS1ZXVS1wSGFnSDNyOFIzN1FqYU9SLVlKM0VpUjdPZkdZQkVMcWl3UVFJeFR3a2RuU2Zrd29nZ1NvbU9HODFkcXc?oc=5",
       "published": "Tue, 10 Nov 2026 11:46:13 GMT",
@@ -332,10 +332,10 @@
     },
     {
       "ticker": "TSM",
-      "title": "TSMC (NYSE:TSM) Stock Rises as Sales Surge 60% and $1 Billion OpenAI, Anthropic Investment Plan Emerges - Stocks Down Under",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TX0dnVFNvcHhXQ3kxbHYtUFdxZ2hRQWMtbU5qek5jNWFGdEVCZE55WUg0aEZPN3RNeTJXUHotMlYxUE9tVFNMaDYxMnNHU3VnM0JjWW44UU94eG5TQXFNLUp6VXdudlA1ZlR6NHA0eHBYY3h1bjNYUF9XaWhDZw?oc=5",
-      "published": "Tue, 10 Nov 2026 18:30:39 GMT",
-      "source": "Stocks Down Under"
+      "title": "Why Is Taiwan Semiconductor Stock Gaining Wednesday? - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGFvVFk2WFI4T0VZN2JmVHA5Zk41VDNUWHdlN2loVTJFTW5LakFHY3V4TjhoMk9ZZy01YmZ2eUxONlFEZlhPUmhldzVHYjlObFJzLXVTOTEzN3E3a21aY0ZmaHFEN1VNRm10UVpwR0EtVTIycFk3MkNITHp4RF8zaVdPVTM2NWx3T3hoaWRLUVlYOVNMM2Q0M0lOUVhoQlpyS1dGOFExUm53T1VDaEpHdmJB?oc=5",
+      "published": "Wed, 11 Nov 2026 16:07:44 GMT",
+      "source": "Benzinga"
     }
   ]
 }
